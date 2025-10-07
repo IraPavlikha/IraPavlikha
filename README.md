@@ -1,13 +1,6 @@
 <!-- README.md -->
 
-<p align="center">
-  <img src="[banner.gif](https://i.pinimg.com/736x/89/95/71/899571b161df030158063ae374679dd3.jpg)" alt="Banner" />
-</p>
-
-<div align="center">
-  <img src="https://github.com/your-username.png" alt="avatar" width="96" style="border-radius:50%; margin-top:-48px; box-shadow: 0 6px 18px rgba(0,0,0,0.15)"/>
-  <h2 style="margin-top:6px">Ірина Павліха</h2>
-  <p>React Native • Mobile apps for reporting • Maps & Cloudinary • Kyiv</p>
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/736x/89/95/71/899571b161df030158063ae374679dd3.jpg">
 
   <p>
     <a href="https://twitter.com/yourhandle">Twitter</a> •
