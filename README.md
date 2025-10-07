@@ -5,4 +5,5 @@
     <a href="https://twitter.com/k0klysh8">Twitter</a> •
     <a href="mailto:kodhsja@gmail.com">Email</a>
   </p>
+<hr>
 </div>
