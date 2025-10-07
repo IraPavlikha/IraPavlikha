@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="banner.gif" alt="Banner" />
+  <img src="[banner.gif](https://i.pinimg.com/736x/89/95/71/899571b161df030158063ae374679dd3.jpg)" alt="Banner" />
 </p>
 
 <div align="center">
