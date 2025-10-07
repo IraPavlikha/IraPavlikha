@@ -3,7 +3,6 @@
 <div align="right">
   <p>
     <a href="https://twitter.com/k0klysh8">Twitter</a> •
-    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
     <a href="mailto:kodhsja@gmail.com">Email</a>
   </p>
 </div>
